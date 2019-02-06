@@ -1,0 +1,14 @@
+h1{
+Border-style: groove;
+Border-color: red;
+}
+ol{
+margin-right: 100px;
+margin-left: 200px;
+}
+body{
+background-color: silver;
+}
+h2{
+text-align: left;
+}
